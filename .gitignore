@@ -73,3 +73,7 @@ tmp/
 *.swo
 .DS_Store
 Thumbs.db
+
+# README / documentation images are tracked
+!docs/images/
+!docs/images/*.jpg
