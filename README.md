@@ -29,9 +29,7 @@ detect five defect types at once, and decide OK / NG for each part.
 
 ## Demo
 
-<a href="https://youtu.be/6IXVnJ5pf2U">
-  <img src="https://img.youtube.com/vi/6IXVnJ5pf2U/maxresdefault.jpg" width="640" alt="Watch the demo video">
-</a>
+▶ **[Watch the demo video on YouTube](https://youtu.be/6IXVnJ5pf2U)**
 
 | Scene | Jump to |
 |---|---|
